@@ -33,6 +33,8 @@ Responsive, modern design using Bootstrap
 
 📸 Preview
 <img width="1910" height="911" alt="image" src="https://github.com/user-attachments/assets/d0edc43e-f4e4-4d86-9dde-6aa933b0f4ee" />
+<img width="1908" height="914" alt="image" src="https://github.com/user-attachments/assets/80de62fa-a113-49d2-ae4b-8b3c7d848bac" />
+
 
 Currently, two official plugins are available:
 
